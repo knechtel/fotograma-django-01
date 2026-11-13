@@ -1,0 +1,11 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Arquivos Django
+db.sqlite3
+.env
